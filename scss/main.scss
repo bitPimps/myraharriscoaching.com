@@ -6,19 +6,24 @@ $ac:          #ff5252;
 $grey-dark:   #212121;
 $grey-medium: #757575;
 $grey-light:  #bdbdbd;
-/* Backgrounds */
-.bg-pc {
-  background-color: $pc;
+$white:       #ffffff;
+
+@import './backgrounds';
+@import './colors';
+@import './navbar';
+
+body {
+  padding-top: 5rem;
 }
-.bg-pc-dark{
-  background-color: $pc-dark;
+/* Anchor link offset */
+a.anchor {
+  display: block;
+  position: relative;
+  top: -140px;
+  visibility: hidden;
 }
-.bg-pc-light {
-  background-color: $pc-light;
-}
-.bg-ac {
-  background-color: $ac;
-}
+// Form elements
+form #website {display:none;}
 header {
   font-family: 'League Gothic', sans-serif;
 }

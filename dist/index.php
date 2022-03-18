@@ -4,20 +4,20 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <!-- DNS Pre-fetch -->
   <meta http-equiv="x-dns-prefetch-control" content="on">
   <link rel="preconnect" href="https://cdn.jsdelivr.net">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link rel="dns-prefetch" href="https://www.googletagmanager.com">
   <link rel="dns-prefetch" href="https://cdnjs.cloudflare.com">
-  <!-- Google Tag Manager -->
-  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-    })(window,document,'script','dataLayer','GTM-PCMSBCC');</script>
-  <!-- Favicon -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-69S8ZZT715"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-69S8ZZT715');
+  </script>
   <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
 	<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
 	<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
@@ -25,45 +25,15 @@
 	<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
 	<meta name="msapplication-TileColor" content="#603cba">
 	<meta name="theme-color" content="#ffffff">
-  <!-- CSS -->
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
   <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css2?family=League+Gothic&display=swap" rel="stylesheet">
-  <!--<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&display=swap" rel="stylesheet">-->
   <link href="css/main.min.css" rel="stylesheet">
-  <!-- Meta data -->
   <meta name="description" content="">
-  <title>Document</title>
+  <title>Myra Harris Coaching</title>
   <link rel="canonical" href="https://www.myraharriscoaching.com">
 </head>
 <body class="d-flex flex-column h-100">
-  <!--
-  <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-pc">
-    <div class="container">
-      <a class="navbar-brand" href="#">
-        <img class="w-75" src="img/myra-harris-coaching.png" alt="Myra Harris Coaching" id="navLogo">
-      </a>
-      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarMain" aria-controls="navbarMain" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
-      </button>
-      <div class="collapse navbar-collapse" id="navbarMain">
-        <ul class="navbar-nav ms-auto mb-2 mb-md-0 navbar-nav-scroll">
-          <li class="nav-item">
-            <a class="nav-link active" aria-current="page" href="#">
-              <i class="fas fa-lg fa-home" aria-hidden="true"></i>
-              <span class="sr-only">Home</span>
-            </a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="#About">About</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="#Contact">Contact</a>
-          </li>
-        </ul>
-      </div>
-    </div>
-  </nav>-->
   <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-pc shadow-sm">
     <div class="container">
       <a class="navbar-brand" href="#">
@@ -178,7 +148,9 @@
           <a class="anchor" id="Contact"></a>
           <h1 class="text-ac mb-3">Get In Touch</h1>
           <div class="row">
-            <div class="col-lg-7"></div>
+            <div class="col-lg-7">
+              <?php include_once 'inc/form-contact.php'; ?>
+            </div>
             <div class="col-lg-4 offset-lg-1 align-self-lg-center">
               <img class="img-fluid rounded" src="img/contact.png" alt="Get In Touch">
             </div>

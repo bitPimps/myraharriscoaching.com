@@ -145,26 +145,26 @@ function clean_input($data) {
 						</div>
 						<?php } ?>
 						<?php if($wasSent==""){ ?>
-						<form role="form" id="contactForm" method="post" action="<?php echo htmlspecialchars(basename($_SERVER["REQUEST_URI"]));?>">
-							<input type="text" id="website" name="website" />
-							<div class="form-group">
-								<label for="inputName">Full Name</label> <small class="text-danger">(Required)</small>
+						<form role="form" id="contactForm" method="post" action="<?php echo htmlspecialchars(basename($_SERVER["REQUEST_URI"]));?>#Contact">
+							<input type="text" id="website" name="website">
+							<div class="mb-3">
+								<label for="inputName" class="form-label">Full Name</label> <small class="text-danger">(Required)</small>
 								<input type="text" class="form-control" id="inputName" name="inputName" placeholder="Full Name" value="<?php if(isset($inputName) && $inputName != "") { ?><?php echo $inputName ?><?php } ?>" />
 							</div>
-								<div class="form-group">
-								<label for="inputEmail">Email address</label> <small class="text-danger">(Required)</small>
+								<div class="mb-3">
+								<label for="inputEmail" class="form-label">Email address</label> <small class="text-danger">(Required)</small>
 								<input type="email" class="form-control" id="inputEmail" name="inputEmail" placeholder="Email Address" value="<?php if(isset($inputEmail) && $inputEmail != "") { ?><?php echo $inputEmail ?><?php } ?>" />
 							</div>
-							<div class="form-group">
-								<label for="inputPhone">Phone Number</label> <small class="text-info">(Optional)</small>
+							<div class="mb-3">
+								<label for="inputPhone" class="form-label">Phone Number</label> <small class="text-info">(Optional)</small>
 								<input type="tel" class="form-control" id="inputPhone" name="inputPhone" placeholder="Phone Number" value="<?php if(isset($inputPhone) && $inputPhone != "") { ?><?php echo $inputPhone ?><?php } ?>" />
 							</div>
-								<div class="form-group">
-								<label for="inputComments">Message</label> <small class="text-danger">(Required)</small>
+								<div class="mb-3">
+								<label for="inputComments" class="form-label">Message</label> <small class="text-danger">(Required)</small>
 								<textarea class="form-control" rows="7" id="inputComments" name="inputComments" placeholder="Requests / Questions"><?php if(isset($inputComments) && $inputComments != "") { ?><?php echo $inputComments ?><?php } ?></textarea>
 							</div>
-							<div class="form-group">
-								<button type="submit" class="btn btn-primary"><i class="fa fa-envelope" aria-hidden="true"></i> Submit</button> <button type="reset" class="btn btn-danger"><span class="glyphicon glyphicon-remove-sign"></span> Clear</button>
+							<div class="mb-3">
+								<button type="submit" class="btn btn-success"><i class="fa fa-envelope" aria-hidden="true"></i> Submit</button> <button type="reset" class="btn btn-secondary"><span class="glyphicon glyphicon-remove-sign"></span> Clear</button>
 							</div>
 						</form>
 						<?php } ?>

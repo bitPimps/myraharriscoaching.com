@@ -11,3 +11,13 @@
 .bg-ac {
   background-color: $ac;
 }
+.bg-header {
+  background-image: url('bg.jpg');
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.bg-gradient {
+  background: rgb(145,13,211);
+  background: linear-gradient(160deg, rgba(145,13,211,1) 0%, rgba(252,140,226,1) 50%, rgba(253,42,109,1) 100%);
+}

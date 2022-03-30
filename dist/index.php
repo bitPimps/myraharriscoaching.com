@@ -63,12 +63,12 @@
       </div>
     </div>
   </nav>
-  <header class="bg-pc-light py-5">
+  <header class="bg-header py-5">
     <div class="container text-center">
-      <div class="display-1 text-pc-dark">
+      <div class="display-1 text-white">
         Myra Harris Coaching
       </div>
-      <div class="fs-3 text-pc">
+      <div class="fs-3 text-white">
         A Collaborative Effort To Help Identify Goals and Potential Solutions
       </div>
     </div>

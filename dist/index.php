@@ -119,12 +119,11 @@
               </blockquote>
             </div>
             <div class="col-lg-3">
-              <img class="img-fluid" src="img/positive-rating.png" alt="5 Star Rating">
             </div>
           </div>
           <div class="row">
             <div class="col-lg-3 align-self-center">
-              <img class="img-fluid rounded" src="img/feedback.jpg" alt="What Others Are Saying">
+              <img class="img-fluid" src="img/positive-rating-magenta.png" alt="5 Star Rating">
             </div>
             <div class="col-lg-8 offset-lg-1 align-self-lg-center">
               <hr class="col-3 my-3 mx-auto">

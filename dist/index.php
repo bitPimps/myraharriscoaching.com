@@ -28,7 +28,7 @@
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
   <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css2?family=League+Gothic&display=swap" rel="stylesheet">
-  <link href="css/main.min.css" rel="stylesheet">
+  <link href="css/main.min.css?v=1" rel="stylesheet">
   <meta name="description" content="">
   <title>Myra Harris Coaching</title>
   <link rel="canonical" href="https://www.myraharriscoaching.com">
@@ -37,7 +37,7 @@
   <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-pc shadow-sm">
     <div class="container">
       <a class="navbar-brand" href="#">
-        <img class="w-75" src="img/myra-harris-coaching.png" alt="Myra Harris Coaching" id="navLogo">
+        Myra Harris Coaching
       </a>
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarMain" aria-controls="navbarMain" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
@@ -64,12 +64,19 @@
     </div>
   </nav>
   <header class="bg-header py-5">
-    <div class="container text-center">
-      <div class="display-1 text-white">
-        Myra Harris Coaching
-      </div>
-      <div class="fs-3 text-white">
-        A Collaborative Effort To Help Identify Goals and Potential Solutions
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-3">
+          <img class="img-fluid" src="img/myra-harris-coaching.png" alt="Myra Harris Coaching">
+        </div>
+        <div class="col-lg-9 text-center">
+          <div class="display-1 text-white">
+            Myra Harris Coaching
+          </div>
+          <div class="fs-3 text-white">
+            A Collaborative Effort To Help Identify Goals and Potential Solutions
+          </div>
+        </div>
       </div>
     </div>
   </header>
@@ -108,7 +115,22 @@
           <a class="anchor" id="Testimonials"></a>
           <h1 class="text-ac mb-3">What Others Are Saying</h1>
           <div class="row">
-            <div class="col-lg-9">
+            <div class="col-lg-4 align-self-center">
+              <img class="img-fluid rounded" src="img/discussion.jpg" alt="Discussing issues">
+            </div>
+            <div class="col-lg-7 offset-lg-1 align-self-lg-center">
+              <blockquote class="blockquote">
+                <p>&quot;Before MH Coaching my relationship with my partner was a mess. We only knew how to talk to
+                  each other but never heard the other one because we weren't truly listening. We would listen
+                  long enough to respond. After attending a couple of session with MH Coaching, we learn that
+                  real listening involves understanding what the other person was saying and feeling. We are still
+                  using the tool we learned.&quot;</p>
+              </blockquote>
+            </div>
+          </div>
+          <hr class="col-3 my-5 mx-auto">
+          <div class="row">
+            <div class="col-lg-7 align-self-center">
               <blockquote class="blockquote">
                 <p>&quot;MH Coaching has been exactly what my spouse and I needed. We were provided the self-
                   awareness around our lack of effective communication skills. We thought we were
@@ -118,23 +140,16 @@
                   concise and builds self-awareness. Thank you, MH we are grateful, we found you.&quot;</p>
               </blockquote>
             </div>
-            <div class="col-lg-3">
+            <div class="col-lg-4 offset-lg-1 align-self-lg-center">
+              <img class="img-fluid rounded" src="img/therapy.jpg" alt="Discussing issues">
             </div>
           </div>
+          <hr class="col-3 my-5 mx-auto">
           <div class="row">
-            <div class="col-lg-3 align-self-center">
-              <img class="img-fluid" src="img/positive-rating-magenta.png" alt="5 Star Rating">
+            <div class="col-lg-4 align-self-center">
+              <img class="img-fluid" src="img/listening.jpg" alt="Listening">
             </div>
-            <div class="col-lg-8 offset-lg-1 align-self-lg-center">
-              <hr class="col-3 my-3 mx-auto">
-              <blockquote class="blockquote">
-                <p>&quot;Before MH Coaching my relationship with my partner was a mess. We only knew how to talk to
-                  each other but never heard the other one because we weren't truly listening. We would listen
-                  long enough to respond. After attending a couple of session with MH Coaching, we learn that
-                  real listening involves understanding what the other person was saying and feeling. We are still
-                  using the tool we learned.&quot;</p>
-              </blockquote>
-              <hr class="col-3 my-3 mx-auto">
+            <div class="col-lg-7 offset-lg-1 align-self-lg-center">
               <blockquote class="blockquote">
                 <p>&quot;Myra has been a listening ear, confident, and great advisor for me when I had issues or conflicts in my
                   relationships. She has helped me understand the importance of communicating my expectations, but also
@@ -151,7 +166,7 @@
               <?php include_once 'inc/form-contact.php'; ?>
             </div>
             <div class="col-lg-4 offset-lg-1 align-self-lg-center">
-              <img class="img-fluid rounded" src="img/contact.png" alt="Get In Touch">
+              <img class="img-fluid rounded" src="img/contact.jpg" alt="Get In Touch">
             </div>
           </div>
         </div>

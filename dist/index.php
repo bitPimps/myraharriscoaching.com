@@ -36,9 +36,11 @@
 <body class="d-flex flex-column h-100">
   <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-pc shadow-sm">
     <div class="container">
+      <!--
       <a class="navbar-brand" href="#">
         Myra Harris Coaching
       </a>
+      -->
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarMain" aria-controls="navbarMain" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
@@ -63,18 +65,18 @@
       </div>
     </div>
   </nav>
-  <header class="bg-header py-5">
+  <header class="bg-header py-3">
     <div class="container">
       <div class="row">
-        <div class="col-lg-3">
-          <img class="img-fluid" src="img/myra-harris-coaching.png" alt="Myra Harris Coaching">
+        <div class="col-lg-3 text-center text-lg-start">
+          <img class="img-fluid w-75" src="img/myra-harris-coaching.png" alt="Myra Harris Coaching">
         </div>
-        <div class="col-lg-9 text-center">
+        <div class="col-lg-9 align-self-center text-center">
           <div class="display-1 text-white">
-            Myra Harris Coaching
+            Identify and Achieve Your Relationship Goals
           </div>
           <div class="fs-3 text-white">
-            A Collaborative Effort To Help Identify Goals and Potential Solutions
+            A collaborative effort to build skills and intimacy with your partner
           </div>
         </div>
       </div>
@@ -106,6 +108,18 @@
                 started my own coaching business. Women ages 45-60 are the focus group. The goal is to
                 enhance both communication and listening skills. The outcome will be focused on building
                 better romantic Relationship in one-on-one sessions.</p>
+            </div>
+            <div class="col-lg-4 offset-lg-1 align-self-lg-center">
+              <img class="img-fluid rounded w-75" src="img/myra-harris.jpg" alt="Myra Harris">
+            </div>
+          </div>
+          <h1 class="text-ac mb-3">Meet Myra</h1>
+          <div class="row">
+            <div class="col-lg-7">
+              <p>For many years, I have been passionate about coaching women who struggle in romantic relationships. Women of all ages come to me seeking relationship advice, saying things like: <strong>"I just can't get through to him"</strong> or <strong>"I feel like I am talking to a brick wall."</strong> These statements resonate with me because I also previously struggled with effective communication and listening skills in my own relationship.</p>
+              <p>I believe that the relationship gap comes from men and women speaking different languages. Many times, what one says isn't what the other person hears, simply because of the communication differences.</p>
+              <p>Effective communication and listening skills are key in building a successful relationship. In 2021, I became a Certified Relationship Coach and started my own business to help women enhance both communication and listening skills. In 1:1 sessions, we focus on building a better romantic relationship.</p>
+              <p>In addition to my Relationship Coach certification, I have taken post-graduate classes in Marriage and Family Counseling and hold a BA in Psychology. My career spans from Ministry to Social Service, where I provided coaching every day.</p>
             </div>
             <div class="col-lg-4 offset-lg-1 align-self-lg-center">
               <img class="img-fluid rounded w-75" src="img/myra-harris.jpg" alt="Myra Harris">

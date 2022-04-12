@@ -87,42 +87,16 @@
       <a class="anchor" id="About"></a>
       <div class="row justify-content-center">
         <div class="col-lg-10">
-          <h1 class="text-ac mb-3">Meet Myra</h1>
           <div class="row">
-            <div class="col-lg-7">
-              <p>I am a Certified Relationship Coach, licensed in 2021, I have taken post- graduate classes in
-                Marriage and Family Counseling and acquired a Bachelor of Art with a concentration in
-                Psychology. My Career spans from Ministry to Social Service where I provided Coaching every
-                day. However, my passion has always been with women struggling in Romantic Relationships.
-                Perhaps because I struggled in my own relationship for so many years.</p>
-              <p>Coaching has been my passion for a lifetime. Women of all ages have come to me seeking
-                relationship advice. Making statements like: <strong>&quot;I just can't seem to get through to him&quot; or &quot;I
-                sometimes feel like I am talking to a brick wall.&quot;</strong> These statements resonated with me because
-                I too have struggled with effective communication and good listening skills in my own
-                relationship. There is a book titled <em>Women are from Venus and Men are from Mars by Steve
-                Harvey</em>. The book's title indicates that Men and Women speak different languages causing a
-                gap. Many times, what one says isn't what the other person hears simply because of how they
-                communicate and listen.</p>
-              <p>Over time it has become clear that effective communication and listening skills are key in
-                building a successful relationship. So, in 2021 I became a certified relationship coach and
-                started my own coaching business. Women ages 45-60 are the focus group. The goal is to
-                enhance both communication and listening skills. The outcome will be focused on building
-                better romantic Relationship in one-on-one sessions.</p>
-            </div>
-            <div class="col-lg-4 offset-lg-1 align-self-lg-center">
+            <div class="col-lg-4 align-self-lg-center">
               <img class="img-fluid rounded w-75" src="img/myra-harris.jpg" alt="Myra Harris">
             </div>
-          </div>
-          <h1 class="text-ac mb-3">Meet Myra</h1>
-          <div class="row">
-            <div class="col-lg-7">
+            <div class="col-lg-7 offset-lg-1">
+              <h1 class="text-ac mb-3">Meet Myra</h1>
               <p>For many years, I have been passionate about coaching women who struggle in romantic relationships. Women of all ages come to me seeking relationship advice, saying things like: <strong>"I just can't get through to him"</strong> or <strong>"I feel like I am talking to a brick wall."</strong> These statements resonate with me because I also previously struggled with effective communication and listening skills in my own relationship.</p>
               <p>I believe that the relationship gap comes from men and women speaking different languages. Many times, what one says isn't what the other person hears, simply because of the communication differences.</p>
               <p>Effective communication and listening skills are key in building a successful relationship. In 2021, I became a Certified Relationship Coach and started my own business to help women enhance both communication and listening skills. In 1:1 sessions, we focus on building a better romantic relationship.</p>
               <p>In addition to my Relationship Coach certification, I have taken post-graduate classes in Marriage and Family Counseling and hold a BA in Psychology. My career spans from Ministry to Social Service, where I provided coaching every day.</p>
-            </div>
-            <div class="col-lg-4 offset-lg-1 align-self-lg-center">
-              <img class="img-fluid rounded w-75" src="img/myra-harris.jpg" alt="Myra Harris">
             </div>
           </div>
           <hr class="col-6 my-5">
@@ -134,9 +108,9 @@
             </div>
             <div class="col-lg-7 offset-lg-1 align-self-lg-center">
               <blockquote class="blockquote">
-                <p>&quot;Before MH Coaching my relationship with my partner was a mess. We only knew how to talk to
+                <p>&quot;Before Myra Harris Coaching my relationship with my partner was a mess. We only knew how to talk to
                   each other but never heard the other one because we weren't truly listening. We would listen
-                  long enough to respond. After attending a couple of session with MH Coaching, we learn that
+                  long enough to respond. After attending a couple of session with Myra Harris Coaching, we learn that
                   real listening involves understanding what the other person was saying and feeling. We are still
                   using the tool we learned.&quot;</p>
               </blockquote>
@@ -146,10 +120,10 @@
           <div class="row">
             <div class="col-lg-7 align-self-center">
               <blockquote class="blockquote">
-                <p>&quot;MH Coaching has been exactly what my spouse and I needed. We were provided the self-
+                <p>&quot;Myra Harris Coaching has been exactly what my spouse and I needed. We were provided the self-
                   awareness around our lack of effective communication skills. We thought we were
                   communicating well with each other. At least we were talking most of our friends shut down
-                  when communicating. We learn in MH Coaching that effective communication is more than just
+                  when communicating. We learn in Myra Harris Coaching that effective communication is more than just
                   sharing and sometimes shouting. We learned that communication questions are honest,
                   concise and builds self-awareness. Thank you, MH we are grateful, we found you.&quot;</p>
               </blockquote>
@@ -168,7 +142,7 @@
                 <p>&quot;Myra has been a listening ear, confident, and great advisor for me when I had issues or conflicts in my
                   relationships. She has helped me understand the importance of communicating my expectations, but also
                   listening to my partners. She helps me understand their point of view and validates mine. I've learned a
-                  lot about relationships and how to be a better partner by working with MH Coaching.&quot;</p>
+                  lot about relationships and how to be a better partner by working with Myra Harris Coaching.&quot;</p>
               </blockquote>
             </div>
           </div>
@@ -190,7 +164,7 @@
   <footer class="footer mt-auto py-3 bg-pc-light">
     <div class="container text-center">
       <div class="text-muted">
-        <small>&copy; 2022 MH Coaching</small>
+        <small>&copy; 2022 Myra Harris Coaching</small>
       </div>
     </div>
   </footer>

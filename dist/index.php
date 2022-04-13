@@ -95,7 +95,7 @@
             -->
             <div class="col-lg-7">
               <h1 class="text-ac mb-3">Meet Myra</h1>
-              <img class="img-fluid rounded-circle w-25 pe-3 pb-3 float-md-start" src="img/myra-harris.jpg" alt="Myra Harris">
+              <img class="img-fluid rounded-circle w-25 me-3 mb-3 float-md-start" src="img/myra-harris.jpg" alt="Myra Harris">
               <p>For many years, I have been passionate about coaching women who struggle in romantic relationships. Women of all ages come to me seeking relationship advice, saying things like: <strong>"I just can't get through to him"</strong> or <strong>"I feel like I am talking to a brick wall."</strong> These statements resonate with me because I also previously struggled with effective communication and listening skills in my own relationship.</p>
               <p>I believe that the relationship gap comes from men and women speaking different languages. Many times, what one says isn't what the other person hears, simply because of the communication differences.</p>
               <p>Effective communication and listening skills are key in building a successful relationship. In 2021, I became a Certified Relationship Coach and started my own business to help women enhance both communication and listening skills. In 1:1 sessions, we focus on building a better romantic relationship.</p>

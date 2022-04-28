@@ -88,11 +88,6 @@
       <div class="row justify-content-center">
         <div class="col-lg-10">
           <div class="row">
-            <!--
-            <div class="col-lg-4 align-self-lg-center">
-              <img class="img-fluid rounded w-75" src="img/myra-harris.jpg" alt="Myra Harris">
-            </div>
-            -->
             <div class="col-lg-7">
               <h1 class="text-ac mb-3">Meet Myra</h1>
               <img class="img-fluid rounded-circle w-25 me-3 mb-3 float-md-start" src="img/myra-harris.jpg" alt="Myra Harris">
@@ -100,6 +95,25 @@
               <p>I believe that the relationship gap comes from men and women speaking different languages. Many times, what one says isn't what the other person hears, simply because of the communication differences.</p>
               <p>Effective communication and listening skills are key in building a successful relationship. In 2021, I became a Certified Relationship Coach and started my own business to help women enhance both communication and listening skills. In 1:1 sessions, we focus on building a better romantic relationship.</p>
               <p>In addition to my Relationship Coach certification, I have taken post-graduate classes in Marriage and Family Counseling and hold a BA in Psychology. My career spans from Ministry to Social Service, where I provided coaching every day.</p>
+            </div>
+            <div class="col-lg-4 offset-lg-1 align-self-center">
+              <div class="card">
+                <div class="card-header bg-ac fs-4">
+                  30 Minutes FREE!
+                </div>
+                <div class="card-body">
+                  <p class="card-text">Get a 30 minute coaching session in the following topics for <em>FREE</em>!</p>
+                  <ul>
+                    <li class="card-text">Communication Assessment</li>
+                    <li class="card-text">Love Language Assessment</li>
+                  </ul>
+                  <p class="card-text">
+                    <strong>Myra Harris</strong><br>
+                    <a href="mailto:Myraharris1962@gmail.com">Myraharris1962@gmail.com</a><br>
+                    <a href="tel:+13143694721">314-369-4721</a>
+                  </p>
+                </div>
+              </div>
             </div>
           </div>
           <hr class="col-6 my-5">

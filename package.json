@@ -1,0 +1,32 @@
+{
+  "name": "myraharriscoaching.com",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build --base=./",
+    "preview": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bitPimps/myraharriscoaching.com.git"
+  },
+  "keywords": [],
+  "author": "Scott D. Lix",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bitPimps/myraharriscoaching.com/issues"
+  },
+  "homepage": "https://github.com/bitPimps/myraharriscoaching.com#readme",
+  "dependencies": {
+    "bootstrap": "^5.3.8",
+    "sass": "^1.93.3"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.21",
+    "postcss": "^8.5.6",
+    "vite": "^7.1.12"
+  }
+}

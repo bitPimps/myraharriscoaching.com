@@ -1,0 +1,30 @@
+/*
+  1. Bootstrap Functions: Required first
+  2. Bootstrap Variables: Required second (where you override defaults)
+  3. Bootstrap Mixins: Required third
+  4. Full Bootstrap: Import last
+*/
+
+// 1. Include functions (required for map and color usage)
+@import "~bootstrap/scss/functions";
+
+// 2. Variable Overrides
+@import "./config/colors";
+@import "./config/typography";
+@import "./config/spacing";
+
+// 3. Include the rest of Bootstrap's SCSS files (Mixins, Variables, etc.)
+@import "~bootstrap/scss/variables";
+@import "~bootstrap/scss/variables-dark";
+@import "~bootstrap/scss/maps";
+@import "~bootstrap/scss/mixins";
+@import "~bootstrap/scss/root"; // Must come after variables
+
+// 4. Include all of Bootstrap's components and utilities
+@import "~bootstrap/scss/bootstrap";
+
+/* Custom styles */
+@import "./modules/global";
+
+@import "./modules/sections";
+@import "./modules/sidenav";
